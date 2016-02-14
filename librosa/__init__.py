@@ -15,7 +15,7 @@ from . import cache
 from . import core
 from . import beat
 from . import decompose
-from . import display
+#from . import display
 from . import effects
 from . import feature
 from . import filters
